@@ -1,0 +1,27 @@
+.header {
+  text-decoration: underline;
+}
+
+.food-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: 400px;
+  align-self: center;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  color: rgba(184, 123, 10, 0.747);
+}
+
+a {
+  text-decoration: wavy;
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+body {
+  background-color: gray;
+}
